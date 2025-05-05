@@ -30,8 +30,5 @@ I'm an Mobile Developer | UI UX Enthusiast
 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/https://github.com/rifqinugrahaaa/https://github.com/rifqinugrahaaa/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/rifqinugrahaaa/output/main/snake.svg" alt="Snake animation" />
 
