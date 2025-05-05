@@ -23,10 +23,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: rifqinugrahaaa
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
-
+          theme: dark  # Memilih tema dark untuk pacman
+          
       - name: push pacman-contribution-graph to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
