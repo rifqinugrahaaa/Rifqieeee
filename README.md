@@ -29,9 +29,14 @@ I'm an Mobile Developer | UI UX Enthusiast
 </p>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/https://github.com/rifqinugrahaaa/https://github.com/rifqinugrahaaa/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqinugrahaaa/rifqinugrahaaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqinugrahaaa/rifqinugrahaaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifqinugrahaaa/rifqinugrahaaa/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
+<img src="https://raw.githubusercontent.com/rifqinugrahaaa/rifqinugrahaaa/output/snake.svg" alt="Snake animation" />
+
+###
