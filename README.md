@@ -1,6 +1,6 @@
 # Hello Everyone! 
 
-![Rifqi Nugraha](img/github-header-image%20(6).png)
+![Rifqi Nugraha](github-header-image%20(6).png)
 
 I'm an Mobile Developer | UI UX Enthusiast
 
